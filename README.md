@@ -27,3 +27,15 @@ Dylan will take responsibility for automated testing within the project, along w
     Our team will allow limited use of generative AI tools including GitHub Copilot or ChatGPT under specific conditions. AI tools can help with boilerplate code, debugging ideas, and explanation of concepts. However, we will avoid using agentic tools that automatically modify the codebase. Any AI-generated code must be reviewed, understood, and manually integrated by a team member.
 ## Outlook
     For this project, our team is hoping to create something that is polished, readable, and fun to work on. We aim to try a mechanic or design idea that other teams might not attempt, such as a unique progression system or a creative visual theme. The riskiest part will likely be coordinating our workflow and merging contributions from multiple people, but our tool choices like browser engine, TypeScript, GitHub should help us handle that. Overall, we plan to combine solid planning with flexible tools to keep the project fun and manageable.
+
+
+
+
+# Devlog Entry – Week 2
+
+## How we satisfied the software requirements
+
+## Reflection
+    Our teams plan had changed very diffrently than what we expected because we intially thought of making a sort of incremental game that would be easy for all of us to make from the past experience in this class. But we started realized how would that work with the 3D requirement we were given for the F1 requirments and instead decided with something easy that satisfies the f1 requirments. This led us to build a simple “button-smacking” physics room instead of a full game with multiple levels for this prototype. 
+    
+    We also realized that we each had different times of aviability to work on this project and we decided to work on it when we had free time and just update each other on the new progress we had on it. We will be folliwng a similar structure to how we set up the team but if any of us need help with our part we will all just work on it together as a collective. At the end the F1 requirement forced us to simplify our design and communicate more, which is probably good for the project long-term.
